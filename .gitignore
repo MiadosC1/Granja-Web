@@ -1,0 +1,31 @@
+# Python / Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Entornos
+.env
+.venv/
+venv/
+
+# Static build
+staticfiles/
+
+# Tests / Coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Node (si después agregas frontend)
+node_modules/
+
+# Distribución
+*.egg-info/
